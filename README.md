@@ -1,0 +1,2 @@
+# Covid-19-SIR-Model
+Using SIR Epidemic modelling, an infected individual is within a network of an input number of other individuals and neighbours. The infection rate and recovery rate can be altered as with other factors in the network such, number of vertices, edges.. Using the model, information can be gathered about K-hop neighbours and a simulation of how an outbreak would work within the Network.
